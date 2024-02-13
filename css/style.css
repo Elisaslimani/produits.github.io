@@ -1,0 +1,136 @@
+@import url(components/avatar.css);
+@import url(components/container.css);
+@import url(components/button.css);
+
+
+h1 {
+    font-size: 80px;
+    font-family: cavilant;
+    color: #4e4e4e;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+    
+p {
+    font-size: 32px;
+    font-family:cavilant ;
+    text-align: center;
+    margin-top: 0px;
+    padding: 0px;
+}
+body {
+    background: #fffefb;
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    background-color: #4e4e4e;
+    box-shadow: 4px 10px 10px #4e4e4e;
+}
+
+
+h2 {
+    font-size: 18px;
+    padding-top: 10px;
+
+}
+
+
+div2 {
+    display: flex;
+flex-direction: row;
+    margin: 30px;
+    text-align: center;
+    
+}
+.text {
+    font-size: 15px;
+    font-family:Arial ;
+    max-width: 200px;
+}
+
+.logo-app{
+    width: 50px;
+    margin: 30px;
+}
+
+.container {
+    max-width: 1000px;
+    display: flexbox;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    font-family: cavilant;
+    color: #333;
+}
+
+
+label {
+    display: block;
+    margin: 5px;
+    color:#4e4e4e;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+div4 {
+    display: flex;
+flex-direction: row;
+    margin: 10px;
+    text-align: left;
+    
+}
+.banner {
+background-image: url("../images/pexels-mart-production-7577802.jpg");
+background-size: cover;
+background-position:center;
+color: #fffefb;
+display: flexbox;
+flex-direction: column;
+
+}
+
+h3 {
+    font-size: 40px;
+    font-family: cavilant;
+    color: #4b4b4b;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+p2 {
+    font-size: 32px;
+    font-family:cavilant ;
+    text-align: center;
+    margin-top: 30px;
+    padding: 0px;
+}
+h4 {
+    font-size: 80px;
+    font-family: cavilant;
+    color: #ffffff;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
